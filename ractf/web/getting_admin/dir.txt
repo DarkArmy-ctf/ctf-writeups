@@ -1,0 +1,4 @@
+/admin (Status: 302)
+/robots.txt (Status: 200)
+/sign-up (Status: 200)
+/videos (Status: 302)

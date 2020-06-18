@@ -1,0 +1,1 @@
+cat file|tr " " "\n"|sort|uniq -c

