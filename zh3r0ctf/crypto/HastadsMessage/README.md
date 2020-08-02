@@ -20,7 +20,7 @@ CT: 1101900007497331050586805826179365088432430058801675210872998711464220592108
 So, as the challenge name sugguest that it should be realated to `Hastad Method`, which means here the value of e is small. Upon connecting to the service everytime we get different value of `N` and `CT` so we can perform `Coppersmith's Attack`: collect a list of 3 `N` and `CT` distinct value and by using the below code with all the requirments we get the flag. I tried changing the `e` value from 3 to 10 and I got the flag at `e=5`
 
 ##### Sample Python2 Code:
-```python2
+```
 e = 5
 n1 = <n1>
 n2 = <n2>
