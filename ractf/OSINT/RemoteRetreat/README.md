@@ -9,7 +9,7 @@ Since it is an OSINT challenge, zoomin in on the image reveals the name of the t
 The place is `the HAKA bar`.
 Searching for this place on google mapstells us that it is  a Bar and Restaurant in Morzine, France.
 Copy and paste the google maps link into thw challenge map.
-zoom in completely and press enter. click somewhere near the centre and there's you flag.
+zoom in completely and press enter. click somewhere near the centre and there's your flag.
 
 ### Google Maps Link:
 ```
