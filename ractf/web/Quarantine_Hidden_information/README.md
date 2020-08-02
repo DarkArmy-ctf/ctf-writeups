@@ -16,4 +16,4 @@ So, i checked the admin-stash dir and boommm! i got the flag.
 | --------------------- |
 | ractf{1m_n0t_4_r0b0T} |
 
-Yeah, like i said before this challenge was so simple and only need enumeration skill. So, that is my writeup thanks for read.
+Yeah, like i said before this challenge was so simple and only need enumeration skill. So, that was my writeup on "Hidden Information" Thanks for reading.
