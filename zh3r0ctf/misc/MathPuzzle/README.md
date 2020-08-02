@@ -22,8 +22,8 @@ Notably the 27th zip and the 20th zip  were a bit of a problem. the 20th one had
 Unzipping the first zip gives us flag1 file whic has flag1.png and a password protected flag2.zip.
 The passwords for every flag`n`.zip is hidden in flag`n-1`.png. hexdump of the pngs reveals the password in plain text at the end.
 The strings command does the job perfectly here.
-```
-string flag1.png
+```bash
+strings flag1.png
 ``` 
 
 The corrupted png's have jpg file signature though all the chunks are from that of a png.
