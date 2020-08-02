@@ -11,13 +11,13 @@ Initially it looks like theres some kind of instrument recording in challenge.mi
 MIDI files can be converted to csv files with information on tone velocity and so on.
 This can be done using a python script with python module py_midicsv
 To install the python module:
-```
+```bash
 pip3 install py_midicsv
 ```
 `midi_to_csv('file.mid')` is the function we need to convert MIDI file to csv.
 
 ##### Sample Script:
-```
+```python3
 import py_midicsv as pm
 
 csv_string = pm.midi_to_csv("challenge.mid")
@@ -37,7 +37,7 @@ The 5th field does not give us anything useful.
 But the 6th field converts to the flag:
 To extract and convert to ascii:
 ##### Sample Script:
-```
+```python3
 with open('challenge.csv','r') as f:
 	data = f.read().split('\n')
 
