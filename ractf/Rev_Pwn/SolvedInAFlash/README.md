@@ -7,7 +7,10 @@
 [flash.bin]
 
 ### Solution:
-run the command `strings flash.bin | grep "ractf"`
+run the command 
+```bash
+strings flash.bin | grep "ractf"
+```
 
 ### flag:
 ractf{Fl4shDump5Ar3VeryFun!!}
