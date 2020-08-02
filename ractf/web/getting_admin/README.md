@@ -30,7 +30,7 @@ So, at this point we only need to change 1 into admin like this one:
 
 > admin' union select "admin",2,3 -- 
 
-When i tried login with the payload, i only login like ussualy but when i checked /admin i got the flag.
+When I tried login with the payload(as usual), I checked /admin to get the flag.
 
 ![](images/4.png)
 
@@ -38,6 +38,6 @@ When i tried login with the payload, i only login like ussualy but when i checke
 | -------- |
 | ractf{j4va5cr1pt_w3b_t0ken} |
 
-Okay, so that is my writeup about getting admin challenge thank you for read see you next time. 
+Okay, so that was my writeup about getting admin challenge thank you for reading. See you next time. 
 
 
