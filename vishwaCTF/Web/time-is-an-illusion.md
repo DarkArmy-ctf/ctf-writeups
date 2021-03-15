@@ -10,4 +10,4 @@ for i in string.printable:
 print(max(t))
 
 ```
-* Manully run the script for each charater in final we get the kye as `KuKa9`
+* Manully run the script for each character > we get the kye to be `KuKa9`
